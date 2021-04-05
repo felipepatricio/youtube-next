@@ -1,0 +1,11 @@
+.card {
+  list-style: none;
+  border: 1px solid rgb(184, 184, 184);
+  border-radius: 4px;
+  padding: 4px 16px;
+  margin: 16px 0;
+}
+
+.title {
+  font-size: 1em;
+}
